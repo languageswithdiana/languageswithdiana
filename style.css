@@ -1,0 +1,130 @@
+*{
+	margin-top: 5px;
+	
+	margin-left: 30px;
+	margin-right: 30px;
+	margin-bottom: 0px,
+	
+	
+}
+#div1{
+	background-color: tan;
+	height: 250px;
+}
+#div1 img{
+display:inline-block;
+}
+#div1 h1{
+	display: inline-block;
+}
+
+#div2{
+	background-color:beige;
+	font-family: 'Roboto',sans-serif;
+	margin-left: 1000px;
+	width: 360px;
+	height: 500px;
+	border-radius: 3px;
+	display: inline-block;
+
+}
+
+
+#div3 h1{
+	text-align: center;
+	padding-top: 15px;
+}
+
+#div4{
+	width: 600px;
+	height: 100px;
+	float:left;
+	font-size: 25px;
+	
+	
+}
+#div5{
+	background-color: tan;
+	height: 150px;
+}
+
+.login-box{
+	background-color:beige;
+	font-family: 'Roboto',sans-serif;
+	margin-left: 1000px;
+	width: 360px;
+	height: 500px;
+	border-radius: 3px;
+	display: inline-block;
+
+}
+
+nav ul{
+	width: 1400px;
+
+	background-color: beige;
+	overflow:hidden;
+	list-style:none;
+	box-sizing: border-box;
+}
+
+nav li{
+	transition:1s;
+
+
+}
+
+nav a{
+	text-decoration: none;
+	font-size: 20px;
+	font-family: cursive;
+
+}
+
+nav li:hover{
+		background-color: tan;
+}
+
+.drop1{
+	position: absolute;
+	display: none;
+}
+
+.dropdown1:hover .drop1{
+	display: block;
+	display: inline-block;
+	overflow: hidden;
+
+}
+
+.drop2{
+	position: absolute;
+	display: none;
+}
+
+.dropdown2:hover .drop2{
+	display: block;
+	display: inline-block;
+	overflow: hidden;
+	
+}
+
+.drop3{
+	position: absolute;
+	display: none;
+
+}
+
+.dropdown3:hover .drop3{
+	display: block;
+	display: inline-block;
+	overflow: hidden;
+	
+}
+
+
+
+.submit-btn:hover{
+	background-color: black;
+	color:white;
+}
